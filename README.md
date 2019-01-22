@@ -1,4 +1,4 @@
-# [IR2019-19-HW1]_1206908_EleonoraMiani
+# [IR2018-19-HW1]_1206908_EleonoraMiani
 
 All'interno della repository si trovano:
 - Il file `[IR2019-19-HW1]_1206908_EleonoraMiani_Notebook.ipynb`, che contiene i **risultati sperimentali** e i
