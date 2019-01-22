@@ -1,7 +1,7 @@
 # [IR2018-19-HW1]_1206908_EleonoraMiani
 
 All'interno della repository si trovano:
-- Il file `[IR2019-19-HW1]_1206908_EleonoraMiani_Notebook.ipynb`, che contiene i **risultati sperimentali** e i
+- Il file `[IR2018-19-HW1]_1206908_EleonoraMiani_Notebook.ipynb`, che contiene i **risultati sperimentali** e i
 relativi **plot**, sia complessivi di ciascuna run che suddivisi per ciascun topic.
 Vi si trova inoltre il codice usato per eseguire i **test ANOVA one-way** e di **Tukey**, con i relativi risultati statistici.
 - Una cartella `Evaluation` ulteriormente suddivisa in base ai quattro sistemi utilizzati. Per ciascuno di questi vi sarà un file `.res` contenente i **file delle run**, un file `.eval` contenente i **risultati della valutazione**, e un file `.csv` che viene utilizzato dallo Jupyter Notebook per importare i dati ottenuti.
